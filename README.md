@@ -1,4 +1,5 @@
 https://nmekinci.github.io/horoscope
+This is a single page web application. It has as a source data.js file. 
 
 
 # Getting Started with Create React App
